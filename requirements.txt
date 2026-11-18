@@ -1,0 +1,3 @@
+# Minecraft Clone Dependencies
+ursina>=19.12.0  # Main 3D engine
+numpy>=1.20.0    # Math calculations
